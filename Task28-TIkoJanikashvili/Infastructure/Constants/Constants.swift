@@ -8,5 +8,5 @@
 import Foundation
 
 struct VCIds {
-    static let news = "NewsViewController"
+    static let news = "ArticlesViewController"
 }
